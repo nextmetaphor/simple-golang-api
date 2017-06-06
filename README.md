@@ -11,7 +11,7 @@ This repository contains an extremely simple API written in `golang` which simpl
 
 #### Building the Code
 To build the code, it is as simple as running the commands below.<br><br>
-**Note that the first two `export` commands are only required if you plan to run the API within the Alpine Linux docker container; if this is not the case then these can be omitted.**
+*Note that the first two `export` commands are only required if you plan to run the API within the Alpine Linux Docker container; if this is not the case then these can be omitted.*
 ```
 export GOOS=linux
 export GOARCH=amd64
