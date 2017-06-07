@@ -1,5 +1,5 @@
 # Simple `golang` API
-This repository contains an extremely simple API written in `golang` which simply returns a JSON document detailing the various attributes of the request. Also included are additional instructions for building a Docker image based on [Alpine Linux](https://alpinelinux.org/) to run this API.
+This repository contains an extremely simple API written in `golang` which simply returns a JSON document detailing the various attributes of the HTTP request. Also included are additional instructions for building a Docker image based on [Alpine Linux](https://alpinelinux.org/) to run this API.
 
 ## Getting Started
 
