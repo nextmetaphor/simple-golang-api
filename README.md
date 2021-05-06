@@ -16,7 +16,7 @@ To build the code, it is as simple as running the commands below.<br><br>
 export GOOS=linux
 export GOARCH=amd64
 
-go build -i
+go build
 ```
 
 #### Building The Docker Image
